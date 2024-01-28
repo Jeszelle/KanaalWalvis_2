@@ -1,0 +1,119 @@
+
+
+main{
+    padding-bottom: 30%;
+}
+
+nav ul {
+    display: flex;
+    justify-content: space-around;
+    padding: 2px;
+    bottom: 10px;
+    left: 4%;
+    position: fixed;
+    overflow: hidden;
+    list-style-type: none;
+    width: 90%;
+    background-color: #EFF1F4;
+    border-radius: 20px;
+    
+}
+
+nav ul li img{
+    scale: 0.7;
+}
+
+
+
+/* HOMEPAGE */
+
+.home h1{
+    color: #EFF1F4;
+    font-family:Arial, Helvetica, sans-serif;
+    margin-top: 30px;
+    margin-left: 40px;
+}
+
+.home section{
+    color: #EFF1F4;
+    font-family:Arial, Helvetica, sans-serif;
+    margin-top: 10px;
+    margin-left: 60px;
+
+
+}
+
+.logo1 {
+    margin-top: 30px;
+    margin-left: 50px;
+}
+
+.home {
+    background-image: url(../images/background_1.png);
+    background-size:100% auto ;
+
+}
+
+
+.home main a{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    text-decoration: none;
+    text-align: center;
+    color: black;
+    background-color: #EFF1F4;
+    margin-left: 130px;
+    text-decoration: underline;
+    
+}
+
+
+
+/* INFORMATIE */
+.informatie {
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 40px;
+    padding: 25px;
+    color: white;
+    text-align: left;
+    background-image: url(../images/Webpage_2.png);
+}
+
+
+
+
+/* SCHOONMAKEN */
+.schoonmaken {
+    font-size:medium;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #EFF1F4;
+    background-color: #35799B;
+    background-image: url(../images/Webpage_3_4.png);
+    text-align: left;
+    margin: 20px;
+    padding: 20px;
+}
+
+.schoonmaken a{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    text-decoration:underline;
+    text-align: center;
+    color: black;
+    background-color: #EFF1F4;
+    /* border-radius: 1em; */
+
+}
+
+.schoonmaken header section{
+    margin-left: 50px;
+}
+
+.schoonmaken main{
+    margin-top: 440px;
+}
+
+
+
+    
+
